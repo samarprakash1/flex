@@ -1,0 +1,17 @@
+- One Dimentional layout
+- Responsive
+- Positioning element is easy.
+- Element's order changable
+
+
+
+Property -
+display -> flex
+flex-direction -> row/column
+justify-content -> flex-start/flex-end/center
+align-item ->flex-start/flex-end/center
+flex-wrap-> wrap/nowrap
+flex-basis-> work as width
+flex-> number
+order -> number
+
